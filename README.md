@@ -1,3 +1,7 @@
+**Moved to https://github.com/GW2Treasures/gw2treasures.com/tree/main/storage**
+
+---
+
 gw2treasures-storage
 ====================
 
